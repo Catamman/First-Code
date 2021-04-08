@@ -1,0 +1,3 @@
+console.log("I like music")
+let yeet = "soooo yeet yourself"
+console.log(yeet)
